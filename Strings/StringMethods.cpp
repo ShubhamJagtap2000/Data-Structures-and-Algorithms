@@ -25,7 +25,7 @@ int main()
   
   //4
   cout << "Strign length: " << s.length() << endl;
-  cout << strlen(s) << endl;  //C language style, works in case of character array*/
+  cout << strlen(s) << endl;  //C language style, works in case of character array
   
   //5
   string s2;
