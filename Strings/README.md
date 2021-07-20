@@ -13,7 +13,9 @@
 
 **```s.length()```:** returns length of string
 
-**```strcpy(s1, s2)```:** copy string s2 into s1
+**```strcpy(s1, len)```:** copy character array s2 into s1 in C style
+
+**```s.copy(s1, len)```:** copy s to s1 up to substring len characters long
 
 **```strcmp(s1, s2)```:** compares strings lexicographically - returns,\
 0 if equal\
@@ -23,4 +25,4 @@
 **```strcat(s1, s2)```:** concatenates string s2 to the end of s1
 
 **```strstr(s1, s2)```:** returns a pointer to first occurrence of s2 in s1
-                                     
+     
