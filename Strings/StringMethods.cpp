@@ -57,6 +57,5 @@ int main()
   string s = "google";
   s.copy(s1, 3);
   cout << s << " " << s1 << endl;
-  
-  return 0;
+
 }
