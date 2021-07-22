@@ -145,7 +145,7 @@ int main()
           cout << "Stack is not full" << endl;
         
       case 5:
-        cout << Enter position of item you want to peek: " << endl;
+        cout << "Enter position of item you want to peek: " << endl;
         cin >> posi;
         cout << "Peek function called - Value at position 'posi' is " << endl << s1.peek(posi) << endl;
         break;
