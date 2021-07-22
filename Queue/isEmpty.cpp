@@ -10,9 +10,9 @@ int main()
   bool isEmpty()
   {
     if(front == -1 && rear == -1)
-      return true
+      return true;
     else
-      return false
+      return false;
    }
 }
   
