@@ -17,7 +17,7 @@ class Node{
   }
 };
 
-class SinglyLinkedList
+/*class SinglyLinkedList
 {
   public:     //data members in private, methods in public
   Node *head;
@@ -27,7 +27,7 @@ class SinglyLinkedList
   void insertNode(key);
   void deleteNode(key);
   void updateNode(key);
-};
+};*/
 
 int main()
 {
@@ -35,7 +35,7 @@ int main()
   Node n2(2, 20);
   Node n3(3, 30);
   
-  SinglyLinkedList s(&n1);
-  s.appendnode(&n2);
-  s.prependnode(&n3);
+ // SinglyLinkedList s(&n1);
+ // s.appendnode(&n2);
+ // s.prependnode(&n3);
 }
