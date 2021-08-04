@@ -9,4 +9,4 @@ My programming and DSA journey
 3. Implementation of Data Structures in C++
 4. Algorithms
 5. Algorithm Implementation in C++
-6. Notes on relevant topics
+6. Notes on relevant topics(DSA Miscellaneous)
