@@ -5,8 +5,12 @@ My programming and DSA journey
 ## Contents:
 
 1. Data Structures
-2. OOP
-3. Implementation of Data Structures in C++
-4. Algorithms
-5. Algorithm Implementation in C++
-6. Notes on relevant topics(DSA Miscellaneous)
+   - [Strings](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Strings)
+   - [Stack](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Stack)
+   - [Queue](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Queue)
+   - [Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Linked%20List)
+3. OOP
+4. Implementation of Data Structures in C++
+5. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
+6. Algorithm Implementation in C++
+7. [Notes on relevant topics(DSA Miscellaneous)](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/DSA%20Miscellaneous%20Topics)
