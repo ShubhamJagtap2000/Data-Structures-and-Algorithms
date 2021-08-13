@@ -8,6 +8,7 @@ My programming and DSA journey
    - [Strings](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Strings)
    - [Stack](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Stack)
    - [Queue](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Queue)
+   - [Circular Queue](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Circular%20Queue)
    - [Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Linked%20List)
    - [Doubly Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Doubly%20Linked%20List)
 3. OOP
