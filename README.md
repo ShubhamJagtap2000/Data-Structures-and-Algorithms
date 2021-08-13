@@ -9,6 +9,7 @@ My programming and DSA journey
    - [Stack](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Stack)
    - [Queue](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Queue)
    - [Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Linked%20List)
+   - [Doubly Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Doubly%20Linked%20List)
 3. OOP
 4. Implementation of Data Structures in C++
 5. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
