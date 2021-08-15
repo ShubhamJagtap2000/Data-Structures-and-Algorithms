@@ -44,6 +44,7 @@ void InsertAtHead(int x)
 
 int main()
 {
+  head = NULL;
   InsertAtHead(2);
   InsertAtHead(4);
 }
