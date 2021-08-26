@@ -25,5 +25,5 @@
 
 **`A B C * +`**
 
-**- While conversion, we will parse the infix expression from left to right only once in [this] algorithm.** \
+**- While conversion, we will parse the infix expression from left to right only once in [this](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/blob/main/Algorithms/Infix%20to%20Postfix/Infix-to-Postfix.cpp) algorithm.** \
 **- If you can see in infix to postfix conversion, the positions of operands and operators may change but the order in which operands occur from left to right will not change.**
