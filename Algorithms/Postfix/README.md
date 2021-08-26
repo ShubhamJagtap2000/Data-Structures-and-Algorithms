@@ -15,5 +15,7 @@
 step 1) **a + (b * c)** \
 step 2) **a + (b c *)*** \
 step 3) **a (b c *) +*** \
-step 4) **a b c * +**
+step 4) **a b c * +** \
+
+#### We can get rid of all the parentheses in last step of postfix because they are not needed.
 
