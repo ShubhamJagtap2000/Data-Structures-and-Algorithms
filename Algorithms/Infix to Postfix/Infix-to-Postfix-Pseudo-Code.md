@@ -10,7 +10,9 @@ InfixToPostfix(exp) \
       res <- res + exp[i]\
     else if exp[i] is perator\
     {\
-      while(!s.empty() && HasHigherPrecedence(S.top(), exp[i]))\
+      while(!s.empty() && HasHigherPrecedence(S.top(), exp[i]))
+      \
+      we will have to add condition !IsOpeningParentheses(S.top()) if there are some parantheses in between the expression \
       {\
         res <- res + S.top()\
         S.pop()\
