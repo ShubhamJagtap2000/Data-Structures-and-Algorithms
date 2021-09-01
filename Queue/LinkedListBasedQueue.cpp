@@ -63,7 +63,6 @@ void Print() {
 }
 
 int main(){
-	/* Drive code to test the implementation. */
 	// Printing elements in Queue after each Enqueue or Dequeue 
 	Enqueue(2); Print(); 
 	Enqueue(4); Print();
