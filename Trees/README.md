@@ -17,6 +17,6 @@
 
 # Applications:
 
-- Storing hierarchical data
+- Storing hierarchical data(file system)
 - Organizing data(searching, sorting, deletion, etc)
 - Network routing applications, etc
