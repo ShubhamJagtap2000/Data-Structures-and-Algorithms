@@ -18,4 +18,5 @@
 # Applications:
 
 - Storing hierarchical data
-- Organizing data
+- Organizing data(searching, sorting, deletion, etc)
+- Network routing applications, etc
