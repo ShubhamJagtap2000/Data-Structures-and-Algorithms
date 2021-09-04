@@ -11,7 +11,8 @@ My programming and DSA journey
    - [Circular Queue](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Circular%20Queue)
    - [Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Linked%20List)
    - [Doubly Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Doubly%20Linked%20List)
-   - [Trees](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Trees)
+   - [Tree and Binary Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Trees)
+   - [Binary Search Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Binary%20Search%20Tree)
 3. [OOP](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP)
 4. Implementation of Data Structures in C++
 5. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
