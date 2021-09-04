@@ -13,8 +13,10 @@ My programming and DSA journey
    - [Doubly Linked List](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Doubly%20Linked%20List)
    - [Tree and Binary Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Trees)
    - [Binary Search Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Binary%20Search%20Tree)
+   - [Graph](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Graph)
+   
 3. [OOP](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP)
-4. Implementation of Data Structures in C++
-5. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
-6. Algorithm Implementation in C++
-7. [Notes on relevant topics(DSA Miscellaneous)](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/DSA%20Miscellaneous%20Topics)
+5. Implementation of Data Structures in C++
+6. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
+7. Algorithm Implementation in C++
+8. [Notes on relevant topics(DSA Miscellaneous)](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/DSA%20Miscellaneous%20Topics)
