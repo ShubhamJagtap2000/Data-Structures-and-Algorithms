@@ -26,7 +26,7 @@ int main()
     return current -> data;
   }
   
-  //iterative solution
+  //iterative solution for finding max element
   int FindMax(BSTNode* root)
   {
     if(root == NULL)
