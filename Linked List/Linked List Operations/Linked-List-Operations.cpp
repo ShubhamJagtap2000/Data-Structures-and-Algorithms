@@ -215,7 +215,7 @@ int main()
     cin >> option;
     Node* n1 = new Node();    //Memory is on heap and is global
     
-    switch(ooption)
+    switch(option)
     {
       case 0:
         break;
