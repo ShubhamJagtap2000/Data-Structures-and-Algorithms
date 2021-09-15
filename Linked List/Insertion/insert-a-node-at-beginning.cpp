@@ -11,6 +11,7 @@ struct Node* head;        //to store address of the first node
 void Insert(int x)
 {
   Node* temp = (Node*)malloc(sizeof(struct Node));    //create a node
+  //auto temp = new Node();
   temp -> data = x;
   temp -> NULL;
   if(head != NULL) 
