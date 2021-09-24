@@ -19,7 +19,7 @@
 
 # What is a Destructor?
 
-- A destructor is a member function whic destructs or deletes an object.
+- A destructor is a member function which destructs or deletes an object.
 
 ## Destructor is called when...
 
@@ -41,5 +41,5 @@
 
 - If we do not write our own destructor in class, compiler creates a default destructor for us. 
 - The default destructor works fine unless we have dynamically allocated memory or pointer in class.
-- When a class contains a ointer to memory allocated in cass, we should write a destructor to release     memory before the class instance is destroyed. This must be done to avoid memory leak. 
+- When a class contains a pointer to memory allocated in class, we should write a destructor to release     memory before the class instance is destroyed. This must be done to avoid memory leak. 
 
