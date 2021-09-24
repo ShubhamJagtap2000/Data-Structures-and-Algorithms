@@ -18,6 +18,7 @@ My programming and DSA journey
 3. OOP
    - [Classes & Objects](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP/Classes%20%26%20Objects)
    - [Constructors & Destructors](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP/Constructors%20%26%20Destructors)
+   - [Pointer to Object](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP/Pointer%20to%20Object)
 5. Implementation of Data Structures in C++
 6. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
 7. Algorithm Implementation in C++
