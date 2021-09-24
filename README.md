@@ -15,7 +15,9 @@ My programming and DSA journey
    - [Binary Search Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Binary%20Search%20Tree)
    - [Graph](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Graph)
    
-3. [OOP](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP)
+3. OOP
+   - [Classes & Objects](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP/Classes%20%26%20Objects)
+   - [Constructors & Destructors](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP/Constructors%20%26%20Destructors)
 5. Implementation of Data Structures in C++
 6. [Algorithms](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Algorithms)
 7. Algorithm Implementation in C++
