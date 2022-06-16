@@ -28,6 +28,15 @@ int main()
   //Remove elements from a container from the specified position or range.
   v.erase(v.begin());                   //Removes the first element of vector v  
   
+  if(v.empty())                         //Check if the vector container is empty or not
+  {
+    cout << "Vector is empty" << endl;
+  }
+  else
+  {
+    cout << "Vector is not empty" << endl;
+  }
+  
   cout << v.size() << endl;             //Tells you how many elements you currently have
   
   cout << v.capacity() << endl;         //Tells you how large the size can get before the vector needs to reallocate memory for itself. Capacity is always greater than or equal to size.
