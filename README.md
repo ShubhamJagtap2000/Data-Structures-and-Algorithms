@@ -14,6 +14,7 @@ My programming and DSA journey
    - [Tree and Binary Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Trees)
    - [Binary Search Tree](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Binary%20Search%20Tree)
    - [Graph](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Graph)
+   - [Vector](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/Vectors)
    
 3. OOP
    - [Classes & Objects](https://github.com/ShubhamJagtap2000/Data-Structures-and-Algorithms/tree/main/OOP/Classes%20%26%20Objects)
