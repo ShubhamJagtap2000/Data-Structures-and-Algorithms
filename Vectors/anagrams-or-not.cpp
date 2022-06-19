@@ -21,7 +21,7 @@ int main()
   
   for(int i = 0; i < 26; i++)
   {
-    if(count1[i] != count2[i];)
+    if(count1[i] != count2[i])
     {
       flag = 0;
       cout << "NO" << endl;
