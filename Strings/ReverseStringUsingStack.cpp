@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-Class Stack
+class Stack
 {
   private:
     char A[101];
