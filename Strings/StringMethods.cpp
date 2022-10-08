@@ -51,7 +51,7 @@ int main()
   cout << strstr(s1, S);
   cout << strcat(s1, s2);
   
-  9
+  //9
   char s1[] = "string 1";
   char s2[] = "ing";
   string s = "google";
