@@ -25,4 +25,3 @@
 **```strcat(s1, s2)```:** concatenates string s2 to the end of s1
 
 **```strstr(s1, s2)```:** returns a pointer to first occurrence of s2 in s1
-     
