@@ -1,4 +1,3 @@
-
 # We can implement Binary Tree using:
 
 1. Dynamically Created Nodes
